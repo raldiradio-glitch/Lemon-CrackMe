@@ -26,5 +26,5 @@ jobs:
       - name: Upload EXE artifact
         uses: actions/upload-artifact@v4
         with:
-          name: CrackMe-Windows-EXE
+          name: CrackMe-Windows-EXPE
           path: CrackMe.exe
